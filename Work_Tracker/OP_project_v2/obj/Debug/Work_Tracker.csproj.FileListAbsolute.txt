@@ -1,0 +1,20 @@
+C:\Users\Vlad\Desktop\OP project v2\OP project v2\bin\Debug\OP project v2.exe.config
+C:\Users\Vlad\Desktop\OP project v2\OP project v2\bin\Debug\OP project v2.exe
+C:\Users\Vlad\Desktop\OP project v2\OP project v2\bin\Debug\OP project v2.pdb
+C:\Users\Vlad\Desktop\OP project v2\OP project v2\obj\Debug\Work_Tracker.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\OP project v2\OP project v2\obj\Debug\OP_project_v2.Work_Tracker.resources
+C:\Users\Vlad\Desktop\OP project v2\OP project v2\obj\Debug\OP_project_v2.Properties.Resources.resources
+C:\Users\Vlad\Desktop\OP project v2\OP project v2\obj\Debug\Work_Tracker.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\OP project v2\OP project v2\obj\Debug\Work_Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\OP project v2\OP project v2\obj\Debug\OP project v2.exe
+C:\Users\Vlad\Desktop\OP project v2\OP project v2\obj\Debug\OP project v2.pdb
+C:\Users\Vlad\Desktop\Work_Tracker\OP_project_v2\bin\Debug\OP project v2.exe.config
+C:\Users\Vlad\Desktop\Work_Tracker\OP_project_v2\bin\Debug\OP project v2.exe
+C:\Users\Vlad\Desktop\Work_Tracker\OP_project_v2\bin\Debug\OP project v2.pdb
+C:\Users\Vlad\Desktop\Work_Tracker\OP_project_v2\obj\Debug\Work_Tracker.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\Work_Tracker\OP_project_v2\obj\Debug\OP_project_v2.Work_Tracker.resources
+C:\Users\Vlad\Desktop\Work_Tracker\OP_project_v2\obj\Debug\OP_project_v2.Properties.Resources.resources
+C:\Users\Vlad\Desktop\Work_Tracker\OP_project_v2\obj\Debug\Work_Tracker.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\Work_Tracker\OP_project_v2\obj\Debug\Work_Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\Work_Tracker\OP_project_v2\obj\Debug\OP project v2.exe
+C:\Users\Vlad\Desktop\Work_Tracker\OP_project_v2\obj\Debug\OP project v2.pdb

@@ -1,0 +1,20 @@
+C:\Users\Serhii\source\repos\OP project v2\OP project v2\obj\Debug\OP project v2.csprojAssemblyReference.cache
+C:\Users\Serhii\source\repos\OP project v2\OP project v2\obj\Debug\OP_project_v2.Properties.Resources.resources
+C:\Users\Serhii\source\repos\OP project v2\OP project v2\obj\Debug\OP project v2.csproj.GenerateResource.cache
+C:\Users\Serhii\source\repos\OP project v2\OP project v2\obj\Debug\OP project v2.csproj.CoreCompileInputs.cache
+C:\Users\Serhii\source\repos\OP project v2\OP project v2\bin\Debug\OP project v2.exe.config
+C:\Users\Serhii\source\repos\OP project v2\OP project v2\bin\Debug\OP project v2.exe
+C:\Users\Serhii\source\repos\OP project v2\OP project v2\bin\Debug\OP project v2.pdb
+C:\Users\Serhii\source\repos\OP project v2\OP project v2\obj\Debug\OP project v2.exe
+C:\Users\Serhii\source\repos\OP project v2\OP project v2\obj\Debug\OP project v2.pdb
+C:\Users\Serhii\source\repos\OP project v2\OP project v2\obj\Debug\OP_project_v2.Form1.resources
+C:\Users\Vlad\Desktop\OP project v2\OP project v2\bin\Debug\OP project v2.exe.config
+C:\Users\Vlad\Desktop\OP project v2\OP project v2\bin\Debug\OP project v2.exe
+C:\Users\Vlad\Desktop\OP project v2\OP project v2\bin\Debug\OP project v2.pdb
+C:\Users\Vlad\Desktop\OP project v2\OP project v2\obj\Debug\OP project v2.csprojAssemblyReference.cache
+C:\Users\Vlad\Desktop\OP project v2\OP project v2\obj\Debug\OP_project_v2.Form1.resources
+C:\Users\Vlad\Desktop\OP project v2\OP project v2\obj\Debug\OP_project_v2.Properties.Resources.resources
+C:\Users\Vlad\Desktop\OP project v2\OP project v2\obj\Debug\OP project v2.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\OP project v2\OP project v2\obj\Debug\OP project v2.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\OP project v2\OP project v2\obj\Debug\OP project v2.exe
+C:\Users\Vlad\Desktop\OP project v2\OP project v2\obj\Debug\OP project v2.pdb
